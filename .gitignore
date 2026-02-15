@@ -1,0 +1,39 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.venv/
+.env/
+*.env
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.ipynb_tmp
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+
+# -------------------------
+# MacOS / OS-specific
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs / caches
+# -------------------------
+*.log
+*.sqlite
+*.pycache/
+.cache/
